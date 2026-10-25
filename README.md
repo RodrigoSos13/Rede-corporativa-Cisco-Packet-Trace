@@ -80,7 +80,3 @@ Repita os testes a partir de diferentes setores. Respostas ICMP recebidas indica
 | --- | --- |
 | `Rede_corp.pkt` | Topologia e configurações da rede no Packet Tracer. |
 | `README.md` | Documentação do projeto. |
-
-## Autor
-
-Rodrigo Sousa — Ciência da Computação, Universidade Federal do Oeste do Pará (UFOPA).
